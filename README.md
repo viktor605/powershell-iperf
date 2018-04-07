@@ -3,4 +3,4 @@
 Также присутствует скрипт и для ручного тестирования.
 Скрипты написаны для работы во всех версиях Windows начиная от XP и до 10. Назначения скриптов будут понятны из их названий.
 Писалось для себя.
-Для Windows XP предварительно скачайте и устновите [powershell] (https://www.microsoft.com/ru-ru/download/details.aspx?id=16818)
+Для Windows XP предварительно скачайте и установите [powershell](https://www.microsoft.com/ru-ru/download/details.aspx?id=16818)
